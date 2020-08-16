@@ -6,7 +6,7 @@ public class Git_test {
 	@Test
 	public void testrepo()
 	{
-		System.out.println("new Function");
+		System.out.println("new Function Git test");
 		
 	}
 
